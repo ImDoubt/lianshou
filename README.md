@@ -1,2 +1,2 @@
 # lianshou
-I'm xiaobai,I want use this project practice
+I'm a xiaobai,it is sc branch,I want use this project practice
